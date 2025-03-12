@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Neuros Child
+ Description:  Neuros Child Theme
+ Theme URI:	   https://demo.artureanec.com/themes/neuros
+ Author:       Artureanec
+ Author URI:   https://demo.artureanec.com
+ Template:     neuros
+ Version:      1.0.0
+ License: GNU  General Public License version 3.0
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+ Text Domain:  neuros-child
+*/
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+/*mobile header styling*/
+  .mobile-header-menu-container {
+	border-radius: 25px;
+	background-image: url("https://pearlarc.nxuniq.in/wp-content/themes/neuros/img/sidepanel-bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: bottom center;
+}

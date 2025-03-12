@@ -1,0 +1,38 @@
+
+---Downloaded files---
+The import files for: Neuros were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://pearlarc.nxuniq.in
+Data file = /home/u237642279/domains/nxuniq.in/public_html/pearlarc/wp-content/uploads/2024/12/demo-content-import-file_2024-12-04__07-38-32.xml
+Widget file = /home/u237642279/domains/nxuniq.in/public_html/pearlarc/wp-content/uploads/2024/12/demo-widgets-import-file_2024-12-04__07-38-32.json
+Customizer file = /home/u237642279/domains/nxuniq.in/public_html/pearlarc/wp-content/uploads/2024/12/demo-customizer-import-file_2024-12-04__07-38-32.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
